@@ -1,0 +1,15 @@
+{
+  "aayushi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp-aayushi-92410-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437749481831:role/amplify-myapp-aayushi-92410-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437749481831:role/amplify-myapp-aayushi-92410-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-myapp-aayushi-92410-deployment",
+      "UnauthRoleName": "amplify-myapp-aayushi-92410-unauthRole",
+      "StackName": "amplify-myapp-aayushi-92410",
+      "StackId": "arn:aws:cloudformation:us-east-1:437749481831:stack/amplify-myapp-aayushi-92410/aea17910-d8b9-11ec-b400-0e9003145d31",
+      "AmplifyAppId": "do3gbvpam8w7c"
+    }
+  }
+}

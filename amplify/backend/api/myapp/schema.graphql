@@ -1,0 +1,11 @@
+type Todo @model @auth(rules: [{allow: public}]){
+ 
+  name: String! @primaryKey
+  description: String
+}
+type User @model @auth(rules: [{allow: public}]){
+  
+  email: String! @primaryKey
+  hobby: String
+  reviews: [Todo] @hasMany
+}
